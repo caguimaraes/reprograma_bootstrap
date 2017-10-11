@@ -1,0 +1,62 @@
+body{
+    background-color: lightgrey;
+    margin: 0 auto;
+}
+
+/* HEADER */
+
+
+.navbar-fixed-top{
+    background-color: #462755;
+}
+
+
+.navbar-brand img{
+    width: 150px;
+}
+
+#menu-reprograma li a{
+    color: white;
+}
+
+.nossa-missao{
+margin-top: 50px;
+}
+
+.projeto{
+    margin-top: 50px;
+}
+
+.texto1{
+    text-align: right;
+}
+
+.btn{
+    justify-content: center;
+}
+
+/* FOTOS */
+
+figcaption{
+    text-align: center;
+}
+
+/* FOOTER */
+
+footer{
+    background-color: #462755;
+    padding: 40px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+footer p{
+    color: white;
+    margin: 0;
+}
+
+a{
+    color: white;
+}
+
+
